@@ -1,7 +1,7 @@
 ## Symfony Event Dispatcher
 
 Este proyecto está desarrollado como parte de una entrada en mi perfil 
-de [Medium]() donde relato cuál es el uso del patron Observer y como 
+de [Medium](https://medium.com/@jaimeramirezc) donde relato cuál es el uso del patron Observer y como 
 se utiliza en Symfony a través del componente Event Dispatcher, el cual nos  
 permitir desacoplar funcionalidades y responsabilidades. 
 
