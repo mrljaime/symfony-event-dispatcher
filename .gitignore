@@ -1,0 +1,24 @@
+
+###> symfony/framework-bundle ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+
+.idea/**
+###> write out migrations ### 
+/*.sql
+###< write out migrations ### 
+
+###> avoid http test and rest client stuff ###
+/*.http
+/http-client.env.json
+###< avoid http test and rest client stuff ###
+
+###> composer.lock ###
+/composer.lock 
+###< composer.lock ###
